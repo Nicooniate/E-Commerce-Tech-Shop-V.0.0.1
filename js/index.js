@@ -54,6 +54,5 @@ function addToCartAndShowTotal() {
     alert(`${cartItems}\nTotal: $${cartTotal}`);
 }
 
-
 showProductCatalogAlert();
 addToCartAndShowTotal();
